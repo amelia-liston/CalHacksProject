@@ -1,5 +1,5 @@
 body{
-    background-color: #e56767;
+    background-color: #deaade;
 }
 
 h1{
@@ -28,7 +28,7 @@ li a{
 }
 
 li a:hover{
-    background-color: #111;
+    background-color: #cdcdcd;
 }
 
 div h2{
